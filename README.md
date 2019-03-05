@@ -1,4 +1,8 @@
 # VRAB
-Virtual Reality at Berkeley's Decal Class
+Virtual Reality at Berkeley
 
+Decal Class
+
+HW1: THE RUBE GOLDBERG BALL MACHINE
 HW2: MUSIC VISUALIZER
+HW3: MAYA MODELING
