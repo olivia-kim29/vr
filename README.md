@@ -1,2 +1,2 @@
-#3D Music Visualizer 
+3D Music Visualizer 
 
